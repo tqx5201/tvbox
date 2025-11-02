@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  get_jar:
+  get_fty_config:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,7 +25,12 @@ jobs:
       
       - name: Run Python script 
         run: python jiaoben/get_fty_config.py
-
+       
+      - name: 缓存运行结果
+        uses: actions/upload-artifact@v4
+        with:
+          name: fty_config
+          path: .
 
       - name: 提交更新
         run: |
