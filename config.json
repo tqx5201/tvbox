@@ -38,12 +38,9 @@
 
 
     "lives": [
-        {"name":"V4-develop202","type":0,"url":"https://gh.llkk.cc/https://raw.bgithub.xyz/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
         {"name":"生态2","type":0,"url":"https://7259.cloudns.ch/iptv/source/list_yd.txt","playerType":2},
         {"name":"牛播一","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
-        {"name":"V4聚合（卡顿请按左┃右键换线）","type":0,"url":"https://gh-proxy.net/https://raw.bgithub.xyz/wwb521/live/main/tv.m3u","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
-        {"name":"肥羊AllinOne","type":0,"url":"https://gh-proxy.com/https://raw.bgithub.xyz/tqx5201/iptv/refs/heads/main/txt/feiyang.txt","ua":"okhttp/3.15","playerType":2},
-       
+        
         {"name":"虎牙一起看","type":0,"url":"https://sub.ottiptv.cc/huyayqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
         {"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
         {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
