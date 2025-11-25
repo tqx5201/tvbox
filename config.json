@@ -15,6 +15,7 @@
         {"key": "界影视.py","name": "界影视.py","type": 3,"api": "https://od.lk/s/NjFfMTE0NTIxMDg4Xw/%E7%95%8C%E5%BD%B1%E8%A7%86.py","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""},
         
         {"key": "电影猎手.py","name": "电影猎手.py","type": 3,"api": "https://od.lk/s/NjFfMTE0NTIyNjQwXw/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""},
+        {"key": "iptv345.py","name": "iptv345.py","type": 3,"api": "https://tvbox.7259.dpdns.org/jiaoben/py/iptv345.py","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""},
 
         
         {"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
