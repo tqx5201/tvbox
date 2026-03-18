@@ -7,7 +7,7 @@ on:
   workflow_dispatch:  # 手动触发
 
 jobs:
-  epg:
+  check_m3u8:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -34,6 +34,7 @@ jobs:
       - name: 提交更新
         run: |
           cd $GITHUB_WORKSPACE/iptv/
+          ls
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
