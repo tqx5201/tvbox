@@ -31,7 +31,9 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: cache
-          path: $GITHUB_WORKSPACE/iptv/
+          path: ${{ github.workspace }}/iptv/
+          retention-days: 7
+
           
       - name: 提交更新
         run: |
