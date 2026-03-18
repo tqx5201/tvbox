@@ -6,7 +6,7 @@ LIST_FILE = 'proxy_m3u8_all.txt'
 async def check_m3u8(session, url):
     try:
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; CPU OS 4_3_3 like Mac OS X)"
         }
         async with session.get(url, headers=headers, timeout=8) as resp:
             if resp.status not in (200, 206):
