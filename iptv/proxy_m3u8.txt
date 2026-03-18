@@ -1,3 +1,9 @@
+邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+
+
 翡翠台4K(字幕),http://o11.163189.xyz/stream/tvb/fct4k/
 TVB Plus(字幕),http://o11.163189.xyz/stream/tvb/tvbp/
 翡翠台(字幕),http://o11.163189.xyz/stream/tvb/fct/
