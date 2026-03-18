@@ -12,6 +12,7 @@ async def check_m3u8(session, url):
             if resp.status not in (200, 206):
                 return False
             chunk = await resp.text(errors="ignore")
+            print(url,chunk)
             return "#EXTM3U" in chunk.upper()
     except:
         return False
