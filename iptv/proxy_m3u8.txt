@@ -30,9 +30,9 @@ RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 鳳凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-翡翠劇集臺,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-翡翠臺,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-無線新聞臺,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+TVB劇集臺,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+TVB翡翠臺,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+TVB無線新聞臺,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 廣東珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
 廣東體育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 八度空間,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
@@ -45,18 +45,18 @@ CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 龍華日韓,http://cdn8.veryfast.filegear-sg.me/163189/lhrh
 龍華戲劇,http://cdn8.veryfast.filegear-sg.me/163189/lhxj
 金光布袋戲,http://o11.163189.xyz/stream/live/jgbdx/
-華麗翡翠臺,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+TVB華麗翡翠臺,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
 TVB亞洲武俠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 TVB娛樂新聞臺,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-無線新聞臺,http://v2h.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
+TVB無線新聞臺,http://v2h.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
 TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 海峽衛視,http://cdn3.veryfast.filegear-sg.me/live/hxws/stream.m3u8
-華麗翡翠臺(硬字幕),http://cdn6.veryfast.filegear-sg.me/live/jade/stream.m3u8
+TVB華麗翡翠臺(硬字幕),http://cdn6.veryfast.filegear-sg.me/live/jade/stream.m3u8
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
 天映經典,https://cdn10.163189.xyz/stream/163189/ccm/
-華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/
-華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/
+TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/
+TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
 Astro AEC,http://o11.163189.xyz/stream/live/aec/
 Astro歡喜臺,http://o11.163189.xyz/stream/live/hxt/
@@ -80,7 +80,7 @@ CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
 靖天電影臺,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 靖洋戲劇臺,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
 影迷數位電影臺,https://cdn12.178.indevs.in/163189/a643783ec587540e
-amc電影臺,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+AMC電影臺,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
 My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
 經典電影臺,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
@@ -105,26 +105,22 @@ HOY體育臺,https://cdn11.163189.xyz/163189/19256090154aa9e9
 龍華偶像,https://tv.zubo.cc.cd/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
 采昌影劇台,https://tv.zubo.cc.cd/live/rx6/2804/b85cad3ca2e1a68ca39bb47d67afa2c3/index.m3u8
 龍華經典,http://tv.zubo.cc.cd/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
-TVB剧集,http://hls.sohu.blog/665i3/
-天映经典,http://hls.sohu.blog/e6w0j/
-龙翔时代,http://hls.sohu.blog/br8op/
-探索科学,http://hls.sohu.blog/1i42b/
-TVBE,http://hls.sohu.blog/gukzn/
-ELTA娱乐台,http://hls.sohu.blog/xqq58/
-CineMAX,http://hls.sohu.blog/03qgt/
-霹靂台灣台,http://hls.sohu.blog/zq97v/
-緯來電影台,http://hls.sohu.blog/y0ifk/
-采昌影劇台,http://hls.sohu.blog/12xc4/
-龍華經典,http://hls.sohu.blog/i6ruh/
-霹靂台灣台,http://hls.sohu.blog/zq97v/
-影迷數位電影台,http://hls.sohu.blog/rh3px/
-采昌影劇台,http://hls.sohu.blog/12xc4/
-龍華經典,http://hls.sohu.blog/i6ruh/
-TVB DRAMA,http://hls.sohu.blog/665i3/
-天映经典,http://hls.sohu.blog/e6w0j/
-龙翔时代,http://hls.sohu.blog/br8op/
+AXN台湾,http://hls.sohu.blog/vsico/
 探索科学,http://hls.sohu.blog/1i42b/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
-Sky Sports F1,http://hls.sohu.blog/ywlnb/
-SKY SPORT NBA,http://hls.sohu.blog/8ac79/
+TVBE,http://hls.sohu.blog/gukzn/
+CineMAX,http://hls.sohu.blog/03qgt/
+采昌影劇台,http://hls.sohu.blog/12xc4/
+龍華經典,http://hls.sohu.blog/i6ruh/
+影迷數位電影台,http://hls.sohu.blog/rh3px/
+龍華經典,http://hls.sohu.blog/i6ruh/
+天映经典,http://hls.sohu.blog/e6w0j/
+AXN台湾,http://hls.sohu.blog/vsico/
+龙翔时代,http://hls.sohu.blog/br8op/
+TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
+TVBE,http://hls.sohu.blog/gukzn/
+Sky Sport premier league英超,http://hls.sohu.blog/71oei/
+SKY Sport F1,http://hls.sohu.blog/oigcg/
+Sport TV 2,http://hls.sohu.blog/g6leu/
+JTBC골프golf,http://hls.sohu.blog/j7j0j/

@@ -1,8 +1,11 @@
-AXN台湾,http://hls.sohu.blog/vsico/
-TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
-TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
+TVB剧集,http://hls.sohu.blog/665i3/
+天映经典,http://hls.sohu.blog/e6w0j/
+龙翔时代,http://hls.sohu.blog/br8op/
+ELTA娱乐台,http://hls.sohu.blog/xqq58/
 HBO HD,http://hls.sohu.blog/6v7mz/
+霹靂台灣台,http://hls.sohu.blog/zq97v/
 影迷數位電影台,http://hls.sohu.blog/rh3px/
+緯來電影台,http://hls.sohu.blog/y0ifk/
 美亞電影,http://hls.sohu.blog/t33ky/
 東森電影台,http://hk.sohu.blog/hk.php?id=dsdy
 靖天電影台,http://hk.sohu.blog/hk.php?id=jtdy
@@ -16,22 +19,16 @@ TVB DRAMA,http://hk.sohu.blog/hk.php?id=tvbdrama
 ELTA娱乐台,http://hls.sohu.blog/xqq58/
 HBO HD,http://hls.sohu.blog/6v7mz/
 CineMAX,http://hls.sohu.blog/03qgt/
+霹靂台灣台,http://hls.sohu.blog/zq97v/
 緯來電影台,http://hls.sohu.blog/y0ifk/
 美亞電影,http://hls.sohu.blog/t33ky/
-AXN台湾,http://hls.sohu.blog/vsico/
-TVBE,http://hls.sohu.blog/gukzn/
-Sky Sport premier league英超,http://hls.sohu.blog/71oei/
-SKY Sport F1,http://hls.sohu.blog/oigcg/
-Sport TV 2,http://hls.sohu.blog/g6leu/
+采昌影劇台,http://hls.sohu.blog/12xc4/
+TVB DRAMA,http://hls.sohu.blog/665i3/
+探索科学,http://hls.sohu.blog/1i42b/
+TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
+Sky Sports F1,http://hls.sohu.blog/ywlnb/
+SKY SPORT NBA,http://hls.sohu.blog/8ac79/
 UK Euro Sport 1,http://hls.sohu.blog/w0c7r/
 MBC Sports+,http://hls.sohu.blog/hlxxh/
 KBSN Sports,http://hls.sohu.blog/jff4w/
-JTBC골프golf,http://hls.sohu.blog/j7j0j/
 SBS골프golf,http://hls.sohu.blog/xgwgu/
-东森超视频道,rtmp://f13h.mine.nu/sat/tv331
-纬来育乐频道,rtmp://f13h.mine.nu/sat/tv701
-纬来体育频道,rtmp://f13h.mine.nu/sat/tv721
-纬来日本频道,rtmp://f13h.mine.nu/sat/tv771
-DAZN-体育壹,rtmp://f13h.mine.nu/sat/tv731
-DAZN-体育贰,rtmp://f13h.mine.nu/sat/tv741
-momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
