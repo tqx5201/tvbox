@@ -78,6 +78,7 @@ HOY體育臺,https://cdn11.163189.xyz/163189/19256090154aa9e9
 龍華日韓,https://cdn8.163189.xyz/163189/lhrh
 龍華偶像,https://cdn8.163189.xyz/163189/lhox
 龍華經典,https://cdn8.163189.xyz/163189/lhjd
+緯來電影台,https://tv.zubo.cc.cd/live/rx2/2728/0f177c09ae2291f7f2fd7226d9d63600/index.m3u8
 龍華偶像,https://tv.zubo.cc.cd/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
 采昌影劇台,https://tv.zubo.cc.cd/live/rx6/2804/b85cad3ca2e1a68ca39bb47d67afa2c3/index.m3u8
 龍華經典,http://tv.zubo.cc.cd/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
@@ -90,6 +91,7 @@ HBO HD,http://hls.sohu.blog/6v7mz/
 CineMAX,http://hls.sohu.blog/03qgt/
 霹靂台灣台,http://hls.sohu.blog/zq97v/
 影迷數位電影台,http://hls.sohu.blog/rh3px/
+緯來電影台,http://hls.sohu.blog/y0ifk/
 美亞電影,http://hls.sohu.blog/t33ky/
 采昌影劇台,http://hls.sohu.blog/12xc4/
 龍華經典,http://hls.sohu.blog/i6ruh/
@@ -98,6 +100,7 @@ HBO HD,http://hls.sohu.blog/6v7mz/
 CineMAX,http://hls.sohu.blog/03qgt/
 霹靂台灣台,http://hls.sohu.blog/zq97v/
 影迷數位電影台,http://hls.sohu.blog/rh3px/
+緯來電影台,http://hls.sohu.blog/y0ifk/
 美亞電影,http://hls.sohu.blog/t33ky/
 采昌影劇台,http://hls.sohu.blog/12xc4/
 龍華經典,http://hls.sohu.blog/i6ruh/
