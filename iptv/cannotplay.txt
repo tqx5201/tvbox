@@ -21,6 +21,10 @@ CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 TVB華麗翡翠臺(硬字幕),http://cdn6.veryfast.filegear-sg.me/live/jade/stream.m3u8
+HOY劇集臺,https://cdn11.163189.xyz/163189/c4df21397505587b
+HOY生活臺,https://cdn11.163189.xyz/163189/c88d2a936daf88fb
+HOY怪談臺,https://cdn11.163189.xyz/163189/35f8613e99c59724
+HOY體育臺,https://cdn11.163189.xyz/163189/19256090154aa9e9
 TVB剧集,http://hls.sohu.blog/665i3/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
@@ -38,4 +42,5 @@ TVB DRAMA,http://hls.sohu.blog/665i3/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
+Sport TV 2,http://hls.sohu.blog/g6leu/
 KBSN Sports,http://hls.sohu.blog/jff4w/
