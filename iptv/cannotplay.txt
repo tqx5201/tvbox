@@ -42,4 +42,3 @@ TVB DRAMA,http://hls.sohu.blog/665i3/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
-KBSN Sports,http://hls.sohu.blog/jff4w/
