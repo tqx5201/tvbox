@@ -88,7 +88,6 @@ CineMAX,http://hls.sohu.blog/03qgt/
 影迷數位電影台,http://hls.sohu.blog/rh3px/
 緯來電影台,http://hls.sohu.blog/y0ifk/
 美亞電影,http://hls.sohu.blog/t33ky/
-采昌影劇台,http://hls.sohu.blog/12xc4/
 龍華經典,http://hls.sohu.blog/i6ruh/
 ELTA娱乐台,http://hls.sohu.blog/xqq58/
 HBO HD,http://hls.sohu.blog/6v7mz/
@@ -105,7 +104,6 @@ AXN台湾,http://hls.sohu.blog/vsico/
 Sky Sport premier league英超,http://hls.sohu.blog/71oei/
 Sky Sports F1,http://hls.sohu.blog/ywlnb/
 SKY SPORT NBA,http://hls.sohu.blog/8ac79/
-SKY Sport F1,http://hls.sohu.blog/oigcg/
 Sport TV 2,http://hls.sohu.blog/g6leu/
 UK Euro Sport 1,http://hls.sohu.blog/w0c7r/
 MBC Sports+,http://hls.sohu.blog/hlxxh/

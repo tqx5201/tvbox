@@ -30,6 +30,7 @@ TVB剧集,http://hls.sohu.blog/665i3/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
+采昌影劇台,http://hls.sohu.blog/12xc4/
 東森電影台,http://hk.sohu.blog/hk.php?id=dsdy
 靖天電影台,http://hk.sohu.blog/hk.php?id=jtdy
 靖洋戲劇台,http://hk.sohu.blog/hk.php?id=jxxj
@@ -44,3 +45,4 @@ TVB DRAMA,http://hls.sohu.blog/665i3/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
+SKY Sport F1,http://hls.sohu.blog/oigcg/
