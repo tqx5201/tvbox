@@ -44,3 +44,6 @@ TVB DRAMA,http://hls.sohu.blog/665i3/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
+SKY Sport F1,http://hls.sohu.blog/oigcg/
+Sport TV 2,http://hls.sohu.blog/g6leu/
+JTBC골프golf,http://hls.sohu.blog/j7j0j/
