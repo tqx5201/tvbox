@@ -30,7 +30,6 @@ TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
 ELTA娱乐台,http://hls.sohu.blog/xqq58/
-影迷數位電影台,http://hls.sohu.blog/rh3px/
 東森電影台,http://hk.sohu.blog/hk.php?id=dsdy
 靖天電影台,http://hk.sohu.blog/hk.php?id=jtdy
 靖洋戲劇台,http://hk.sohu.blog/hk.php?id=jxxj
@@ -41,14 +40,7 @@ hoy78,http://hk.sohu.blog/hk.php?id=hoy78
 TVB DRAMA,http://hk.sohu.blog/hk.php?id=tvbdrama
 華藝中文台,http://hk.sohu.blog/hk.php?id=hyzwt
 ELTA娱乐台,http://hls.sohu.blog/xqq58/
-影迷數位電影台,http://hls.sohu.blog/rh3px/
 TVB DRAMA,http://hls.sohu.blog/665i3/
-探索科学,http://hls.sohu.blog/1i42b/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
-Sky Sports F1,http://hls.sohu.blog/ywlnb/
-SKY SPORT NBA,http://hls.sohu.blog/8ac79/
-SKY Sport F1,http://hls.sohu.blog/oigcg/
-Sport TV 2,http://hls.sohu.blog/g6leu/
-JTBC골프golf,http://hls.sohu.blog/j7j0j/
