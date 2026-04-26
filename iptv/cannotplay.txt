@@ -25,10 +25,6 @@ HOY劇集臺,https://cdn11.163189.xyz/163189/c4df21397505587b
 HOY生活臺,https://cdn11.163189.xyz/163189/c88d2a936daf88fb
 HOY怪談臺,https://cdn11.163189.xyz/163189/35f8613e99c59724
 HOY體育臺,https://cdn11.163189.xyz/163189/19256090154aa9e9
-緯來電影台,https://tv.zubo.cc.cd/live/rx2/2728/0f177c09ae2291f7f2fd7226d9d63600/index.m3u8
-龍華偶像,https://tv.zubo.cc.cd/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
-采昌影劇台,https://tv.zubo.cc.cd/live/rx6/2804/b85cad3ca2e1a68ca39bb47d67afa2c3/index.m3u8
-龍華經典,http://tv.zubo.cc.cd/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
 TVB剧集,http://hls.sohu.blog/665i3/
 天映经典,http://hls.sohu.blog/e6w0j/
 AXN台湾,http://hls.sohu.blog/vsico/
