@@ -31,7 +31,6 @@ TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 海峽衛視,http://cdn3.veryfast.filegear-sg.me/live/hxws/stream.m3u8
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
-天映經典,https://cdn10.163189.xyz/stream/163189/ccm/
 TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/
 TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
@@ -81,9 +80,7 @@ HOY國際財經臺,https://cdn11.163189.xyz/163189/2c86601a7180416e
 天映经典,http://hls.sohu.blog/e6w0j/
 AXN台湾,http://hls.sohu.blog/vsico/
 龙翔时代,http://hls.sohu.blog/br8op/
-探索科学,http://hls.sohu.blog/1i42b/
 HBO HD,http://hls.sohu.blog/6v7mz/
-CineMAX,http://hls.sohu.blog/03qgt/
 霹靂台灣台,http://hls.sohu.blog/zq97v/
 影迷數位電影台,http://hls.sohu.blog/rh3px/
 緯來電影台,http://hls.sohu.blog/y0ifk/
@@ -101,7 +98,6 @@ CineMAX,http://hls.sohu.blog/03qgt/
 天映经典,http://hls.sohu.blog/e6w0j/
 AXN台湾,http://hls.sohu.blog/vsico/
 龙翔时代,http://hls.sohu.blog/br8op/
-探索科学,http://hls.sohu.blog/1i42b/
 SKY SPORT NBA,http://hls.sohu.blog/8ac79/
 SKY Sport F1,http://hls.sohu.blog/oigcg/
 Sport TV 2,http://hls.sohu.blog/g6leu/
