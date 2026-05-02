@@ -79,8 +79,8 @@ HOY國際財經臺,https://cdn11.163189.xyz/163189/2c86601a7180416e
 龍華經典,http://tv.zubo.cc.cd/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
 天映经典,http://hls.sohu.blog/e6w0j/
 AXN台湾,http://hls.sohu.blog/vsico/
-龙翔时代,http://hls.sohu.blog/br8op/
 HBO HD,http://hls.sohu.blog/6v7mz/
+CineMAX,http://hls.sohu.blog/03qgt/
 霹靂台灣台,http://hls.sohu.blog/zq97v/
 影迷數位電影台,http://hls.sohu.blog/rh3px/
 緯來電影台,http://hls.sohu.blog/y0ifk/
@@ -97,10 +97,8 @@ CineMAX,http://hls.sohu.blog/03qgt/
 龍華經典,http://hls.sohu.blog/i6ruh/
 天映经典,http://hls.sohu.blog/e6w0j/
 AXN台湾,http://hls.sohu.blog/vsico/
-龙翔时代,http://hls.sohu.blog/br8op/
 SKY SPORT NBA,http://hls.sohu.blog/8ac79/
 SKY Sport F1,http://hls.sohu.blog/oigcg/
-Sport TV 2,http://hls.sohu.blog/g6leu/
 MBC Sports+,http://hls.sohu.blog/hlxxh/
 KBSN Sports,http://hls.sohu.blog/jff4w/
 JTBC골프golf,http://hls.sohu.blog/j7j0j/
