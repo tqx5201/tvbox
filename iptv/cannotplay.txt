@@ -27,8 +27,7 @@ HOY生活臺,https://cdn11.163189.xyz/163189/c88d2a936daf88fb
 HOY怪談臺,https://cdn11.163189.xyz/163189/35f8613e99c59724
 HOY體育臺,https://cdn11.163189.xyz/163189/19256090154aa9e9
 TVB剧集,http://hls.sohu.blog/665i3/
-龙翔时代,http://hls.sohu.blog/br8op/
-探索科学,http://hls.sohu.blog/1i42b/
+天映经典,http://hls.sohu.blog/e6w0j/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
@@ -44,8 +43,7 @@ TVB DRAMA,http://hk.sohu.blog/hk.php?id=tvbdrama
 華藝中文台,http://hk.sohu.blog/hk.php?id=hyzwt
 ELTA娱乐台,http://hls.sohu.blog/xqq58/
 TVB DRAMA,http://hls.sohu.blog/665i3/
-龙翔时代,http://hls.sohu.blog/br8op/
-探索科学,http://hls.sohu.blog/1i42b/
+天映经典,http://hls.sohu.blog/e6w0j/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
