@@ -22,6 +22,7 @@ RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 龍華偶像,http://cdn8.veryfast.filegear-sg.me/163189/lhox
 龍華日韓,http://cdn8.veryfast.filegear-sg.me/163189/lhrh
 龍華戲劇,http://cdn8.veryfast.filegear-sg.me/163189/lhxj
+金光布袋戲,http://o11.163189.xyz/stream/live/jgbdx/
 TVB華麗翡翠臺,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
 TVB亞洲武俠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 TVB娛樂新聞臺,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
@@ -80,30 +81,11 @@ HOY國際財經臺,https://cdn11.163189.xyz/163189/2c86601a7180416e
 天映经典,http://hls.sohu.blog/e6w0j/
 AXN台湾,http://hls.sohu.blog/vsico/
 龙翔时代,http://hls.sohu.blog/br8op/
-探索科学,http://hls.sohu.blog/1i42b/
-HBO HD,http://hls.sohu.blog/6v7mz/
 CineMAX,http://hls.sohu.blog/03qgt/
-霹靂台灣台,http://hls.sohu.blog/zq97v/
-影迷數位電影台,http://hls.sohu.blog/rh3px/
-緯來電影台,http://hls.sohu.blog/y0ifk/
 美亞電影,http://hls.sohu.blog/t33ky/
 采昌影劇台,http://hls.sohu.blog/12xc4/
 龍華經典,http://hls.sohu.blog/i6ruh/
-HBO HD,http://hls.sohu.blog/6v7mz/
-CineMAX,http://hls.sohu.blog/03qgt/
-霹靂台灣台,http://hls.sohu.blog/zq97v/
 影迷數位電影台,http://hls.sohu.blog/rh3px/
-緯來電影台,http://hls.sohu.blog/y0ifk/
 美亞電影,http://hls.sohu.blog/t33ky/
-采昌影劇台,http://hls.sohu.blog/12xc4/
-龍華經典,http://hls.sohu.blog/i6ruh/
-天映经典,http://hls.sohu.blog/e6w0j/
-AXN台湾,http://hls.sohu.blog/vsico/
-龙翔时代,http://hls.sohu.blog/br8op/
-探索科学,http://hls.sohu.blog/1i42b/
-SKY SPORT NBA,http://hls.sohu.blog/8ac79/
 SKY Sport F1,http://hls.sohu.blog/oigcg/
-MBC Sports+,http://hls.sohu.blog/hlxxh/
-KBSN Sports,http://hls.sohu.blog/jff4w/
-JTBC골프golf,http://hls.sohu.blog/j7j0j/
 SBS골프golf,http://hls.sohu.blog/xgwgu/
