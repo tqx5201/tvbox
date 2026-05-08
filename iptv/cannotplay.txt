@@ -1,7 +1,3 @@
-邵氏動作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-邵氏喜劇,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-邵氏電影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-邵氏武俠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 鳳凰中文,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 鳳凰資訊,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 鳳凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
@@ -34,7 +30,6 @@ TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
 ELTA娱乐台,http://hls.sohu.blog/xqq58/
-HBO HD,http://hls.sohu.blog/6v7mz/
 東森電影台,http://hk.sohu.blog/hk.php?id=dsdy
 靖天電影台,http://hk.sohu.blog/hk.php?id=jtdy
 靖洋戲劇台,http://hk.sohu.blog/hk.php?id=jxxj
@@ -45,11 +40,11 @@ hoy78,http://hk.sohu.blog/hk.php?id=hoy78
 TVB DRAMA,http://hk.sohu.blog/hk.php?id=tvbdrama
 華藝中文台,http://hk.sohu.blog/hk.php?id=hyzwt
 ELTA娱乐台,http://hls.sohu.blog/xqq58/
-HBO HD,http://hls.sohu.blog/6v7mz/
 TVB DRAMA,http://hls.sohu.blog/665i3/
 TVB娱乐新闻台,http://hls.sohu.blog/lssl9/
 TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
 Sky Sport premier league英超,http://hls.sohu.blog/71oei/
 Sky Sports F1,http://hls.sohu.blog/ywlnb/
+SKY Sport F1,http://hls.sohu.blog/oigcg/
 UK Euro Sport 1,http://hls.sohu.blog/w0c7r/

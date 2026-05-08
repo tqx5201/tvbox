@@ -1,3 +1,7 @@
+邵氏動作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+邵氏喜劇,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+邵氏電影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+邵氏武俠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 TVB翡翠臺4K(字幕),http://o11.163189.xyz/stream/tvb/fct4k/
 TVB Plus(字幕),http://o11.163189.xyz/stream/tvb/tvbp/
 TVB翡翠臺(字幕),http://o11.163189.xyz/stream/tvb/fct/
@@ -78,6 +82,7 @@ HOY國際財經臺,https://cdn11.163189.xyz/163189/2c86601a7180416e
 AXN台湾,http://hls.sohu.blog/vsico/
 龙翔时代,http://hls.sohu.blog/br8op/
 探索科学,http://hls.sohu.blog/1i42b/
+HBO HD,http://hls.sohu.blog/6v7mz/
 CineMAX,http://hls.sohu.blog/03qgt/
 霹靂台灣台,http://hls.sohu.blog/zq97v/
 影迷數位電影台,http://hls.sohu.blog/rh3px/
@@ -85,6 +90,7 @@ CineMAX,http://hls.sohu.blog/03qgt/
 美亞電影,http://hls.sohu.blog/t33ky/
 采昌影劇台,http://hls.sohu.blog/12xc4/
 龍華經典,http://hls.sohu.blog/i6ruh/
+HBO HD,http://hls.sohu.blog/6v7mz/
 CineMAX,http://hls.sohu.blog/03qgt/
 霹靂台灣台,http://hls.sohu.blog/zq97v/
 影迷數位電影台,http://hls.sohu.blog/rh3px/
@@ -97,7 +103,6 @@ AXN台湾,http://hls.sohu.blog/vsico/
 龙翔时代,http://hls.sohu.blog/br8op/
 探索科学,http://hls.sohu.blog/1i42b/
 SKY SPORT NBA,http://hls.sohu.blog/8ac79/
-SKY Sport F1,http://hls.sohu.blog/oigcg/
 Sport TV 2,http://hls.sohu.blog/g6leu/
 MBC Sports+,http://hls.sohu.blog/hlxxh/
 KBSN Sports,http://hls.sohu.blog/jff4w/
