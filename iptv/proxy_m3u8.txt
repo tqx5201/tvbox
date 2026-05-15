@@ -10,8 +10,6 @@ CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
 HOY TV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 HOY資訊臺,http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
 HOY劇集臺,http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
-ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
-ViuTVsix,https://cdn10.163189.xyz/stream/163189/viu6/
 NOW新聞臺,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 RTHK31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
@@ -29,9 +27,6 @@ TVB娛樂新聞臺,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 TVB無線新聞臺,http://v2h.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
 TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 海峽衛視,http://cdn3.veryfast.filegear-sg.me/live/hxws/stream.m3u8
-TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
-天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
-天映經典,https://cdn10.163189.xyz/stream/163189/ccm/
 TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/
 TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
