@@ -143,7 +143,7 @@ HOY體育臺,https://cdn11.163189.xyz/163189/19256090154aa9e9
 龍華偶像,https://tv.zubo.cc.cd/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
 采昌影劇台,https://tv.zubo.cc.cd/live/rx6/2804/b85cad3ca2e1a68ca39bb47d67afa2c3/index.m3u8
 龍華經典,http://tv.zubo.cc.cd/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
-
+美亚电视台,https://tv.zubo.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8
 
 
 
