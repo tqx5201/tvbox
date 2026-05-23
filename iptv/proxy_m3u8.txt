@@ -6,7 +6,6 @@ TVB翡翠臺4K(字幕),http://o11.163189.xyz/stream/tvb/fct4k/
 TVB Plus(字幕),http://o11.163189.xyz/stream/tvb/tvbp/
 TVB翡翠臺(字幕),http://o11.163189.xyz/stream/tvb/fct/
 TVB明珠臺(字幕),http://o11.163189.xyz/stream/tvb/mzt/
-CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
 HOY TV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 HOY資訊臺,http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
 HOY劇集臺,http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
@@ -26,7 +25,6 @@ TVB亞洲武俠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 TVB娛樂新聞臺,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 TVB無線新聞臺,http://v2h.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
 TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-海峽衛視,http://cdn3.veryfast.filegear-sg.me/live/hxws/stream.m3u8
 TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/
 TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
