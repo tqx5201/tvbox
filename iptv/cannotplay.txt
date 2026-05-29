@@ -29,11 +29,14 @@ TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
 天映經典,https://cdn10.163189.xyz/stream/163189/ccm/
 CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+廣州南國都市,https://cdn15.163189.xyz/163189/90871926591ebcbc
+五星體育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+HOY國際財經臺,https://cdn11.163189.xyz/163189/2c86601a7180416e
 HOY劇集臺,https://cdn11.163189.xyz/163189/c4df21397505587b
 HOY生活臺,https://cdn11.163189.xyz/163189/c88d2a936daf88fb
 HOY怪談臺,https://cdn11.163189.xyz/163189/35f8613e99c59724
 HOY體育臺,https://cdn11.163189.xyz/163189/19256090154aa9e9
-美亚电视台,https://tv.zubo.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8
+龍華偶像,https://tv.zubo.cc.cd/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
 TVB剧集,http://hls.sohu.blog/665i3/
 天映经典,http://hls.sohu.blog/e6w0j/
 AXN台湾,http://hls.sohu.blog/vsico/
