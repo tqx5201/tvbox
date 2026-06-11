@@ -25,16 +25,9 @@ TVB亞洲武俠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 TVB娛樂新聞臺,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 TVB無線新聞臺,http://v2h.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
 TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/
 TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/
-Astro AOD,http://o11.163189.xyz/stream/live/aod/
-Astro AEC,http://o11.163189.xyz/stream/live/aec/
-Astro歡喜臺,http://o11.163189.xyz/stream/live/hxt/
-愛奇藝,http://o11.163189.xyz/stream/live/iqiyi/
 天映頻道,http://o11.163189.xyz/stream/live/typd/
 天映經典,http://o11.163189.xyz/stream/live/ccm/
-TVB星河(国语),http://o11.163189.xyz/stream/live/tvbxh/
-千禧經典臺,http://o11.163189.xyz/stream/live/tvbc/
 CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
 重溫經典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 廣州綜合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7

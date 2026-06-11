@@ -28,6 +28,13 @@ TVB華麗翡翠臺(硬字幕),http://cdn6.veryfast.filegear-sg.me/live/jade/stre
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
 天映經典,https://cdn10.163189.xyz/stream/163189/ccm/
+TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/
+Astro AOD,http://o11.163189.xyz/stream/live/aod/
+Astro AEC,http://o11.163189.xyz/stream/live/aec/
+Astro歡喜臺,http://o11.163189.xyz/stream/live/hxt/
+愛奇藝,http://o11.163189.xyz/stream/live/iqiyi/
+TVB星河(国语),http://o11.163189.xyz/stream/live/tvbxh/
+千禧經典臺,http://o11.163189.xyz/stream/live/tvbc/
 CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 廣州南國都市,https://cdn15.163189.xyz/163189/90871926591ebcbc
 五星體育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
