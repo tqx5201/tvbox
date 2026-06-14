@@ -1,3 +1,4 @@
+TVB Plus(字幕),http://o11.163189.xyz/stream/tvb/tvbp/stream_0.php
 鳳凰中文,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 鳳凰資訊,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 鳳凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
@@ -29,11 +30,8 @@ TVB華麗翡翠臺(硬字幕),http://cdn6.veryfast.filegear-sg.me/live/jade/stre
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/stream_0.php
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/stream_0.php
 天映經典,https://cdn10.163189.xyz/stream/163189/ccm/stream_0.php
-TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/stream_0.php
-TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/stream_0.php
 Astro AOD,http://o11.163189.xyz/stream/live/aod/stream_0.php
-天映頻道,http://o11.163189.xyz/stream/live/typd/stream_0.php
-TVB星河(国语),http://o11.163189.xyz/stream/live/tvbxh/stream_0.php
+愛奇藝,http://o11.163189.xyz/stream/live/iqiyi/stream_0.php
 CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 廣州南國都市,https://cdn15.163189.xyz/163189/90871926591ebcbc
 五星體育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
