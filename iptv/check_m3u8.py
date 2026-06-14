@@ -33,13 +33,13 @@ async def check_m3u8(session, url):
         # 第一次请求
         async with session.get(url, headers=headers, timeout=timeout) as resp:
             if resp.status in (200, 206):
-                chunk = await resp.text(limit=2048, errors="ignore")
+                chunk = await resp.text(errors="ignore")
                 return verify_content(chunk)
             # 401 执行二次请求
             elif resp.status == 401:
                 async with session.get(url, headers=headers, timeout=timeout) as resp2:
                     if resp2.status in (200, 206):
-                        chunk = await resp2.text(limit=2048, errors="ignore")
+                        chunk = await resp2.text(errors="ignore")
                         return verify_content(chunk)
     except (aiohttp.ClientError, TimeoutError, ConnectionError):
         pass
