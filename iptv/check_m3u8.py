@@ -60,8 +60,7 @@ async def check_m3u8(session: aiohttp.ClientSession, url: str) -> bool:
             async with session.get(url, headers=headers, timeout=timeout) as resp:
                 if resp.status in (200, 206):
                     # 读取前2048字节，替代 limit
-                    data = await resp.read(n=2048)
-                    chunk = data.decode("utf-8", errors="ignore")
+                    chunk = await resp.text(errors="ignore")
                     return "#EXTM3U" in chunk.upper()
                 # 401 且还有重试次数，继续请求
                 elif resp.status == 401 and _ < retry_times:
