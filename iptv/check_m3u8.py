@@ -3,7 +3,7 @@ import asyncio
 
 LIST_FILE = 'proxy_m3u8_all.txt'
 
-async def check_m3u8(session, url):
+async def check_m3u82(session, url):
     try:
         headers = {
             "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; CPU OS 4_3_3 like Mac OS X)"
@@ -18,6 +18,32 @@ async def check_m3u8(session, url):
             return "#EXTM3U" in chunk.upper()
     except:
         return False
+
+
+async def check_m3u8(session, url):
+    headers = {
+        "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; CPU OS 4_3_3 like Mac OS X)"
+    }
+    timeout = aiohttp.ClientTimeout(total=8)
+
+    def verify_content(text: str) -> bool:
+        return "#EXTM3U" in text.upper()
+
+    try:
+        # 第一次请求
+        async with session.get(url, headers=headers, timeout=timeout) as resp:
+            if resp.status in (200, 206):
+                chunk = await resp.text(limit=2048, errors="ignore")
+                return verify_content(chunk)
+            # 401 执行二次请求
+            elif resp.status == 401:
+                async with session.get(url, headers=headers, timeout=timeout) as resp2:
+                    if resp2.status in (200, 206):
+                        chunk = await resp2.text(limit=2048, errors="ignore")
+                        return verify_content(chunk)
+    except (aiohttp.ClientError, TimeoutError, ConnectionError):
+        pass
+    return False
 
 async def main():
     try:
