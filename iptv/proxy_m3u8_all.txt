@@ -6,10 +6,10 @@
 
 
 
-TVB翡翠臺4K(字幕),http://o11.163189.xyz/stream/tvb/fct4k/
-TVB Plus(字幕),http://o11.163189.xyz/stream/tvb/tvbp/
-TVB翡翠臺(字幕),http://o11.163189.xyz/stream/tvb/fct/
-TVB明珠臺(字幕),http://o11.163189.xyz/stream/tvb/mzt/
+TVB翡翠臺4K(字幕),http://o11.163189.xyz/stream/tvb/fct4k/stream_0.php
+TVB Plus(字幕),http://o11.163189.xyz/stream/tvb/tvbp/stream_0.php
+TVB翡翠臺(字幕),http://o11.163189.xyz/stream/tvb/fct/stream_0.php
+TVB明珠臺(字幕),http://o11.163189.xyz/stream/tvb/mzt/stream_0.php
 
 鳳凰中文,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 鳳凰資訊,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
@@ -29,8 +29,11 @@ HOY劇集臺,http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 
 
 
-ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
-ViuTVsix,https://cdn10.163189.xyz/stream/163189/viu6/
+ViuTV,https://cdn10.163189.xyz/stream/163189/viu/stream_0.php
+ViuTVsix,https://cdn10.163189.xyz/stream/163189/viu6/stream_0.php
+
+
+
 NOW新聞臺,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 RTHK31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
@@ -63,7 +66,7 @@ CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 龍華戲劇,http://cdn8.veryfast.filegear-sg.me/163189/lhxj
 
 
-金光布袋戲,http://o11.163189.xyz/stream/live/jgbdx/
+金光布袋戲,http://o11.163189.xyz/stream/live/jgbdx/stream_0.php
 
 
 
@@ -77,19 +80,19 @@ TVB華麗翡翠臺(硬字幕),http://cdn6.veryfast.filegear-sg.me/live/jade/stre
 
 
 
-TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
-天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
-天映經典,https://cdn10.163189.xyz/stream/163189/ccm/
-TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/
-TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/
-Astro AOD,http://o11.163189.xyz/stream/live/aod/
-Astro AEC,http://o11.163189.xyz/stream/live/aec/
-Astro歡喜臺,http://o11.163189.xyz/stream/live/hxt/
-愛奇藝,http://o11.163189.xyz/stream/live/iqiyi/
-天映頻道,http://o11.163189.xyz/stream/live/typd/
-天映經典,http://o11.163189.xyz/stream/live/ccm/
-TVB星河(国语),http://o11.163189.xyz/stream/live/tvbxh/
-千禧經典臺,http://o11.163189.xyz/stream/live/tvbc/
+TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/stream_0.php
+天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/stream_0.php
+天映經典,https://cdn10.163189.xyz/stream/163189/ccm/stream_0.php
+TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/stream_0.php
+TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/stream_0.php
+Astro AOD,http://o11.163189.xyz/stream/live/aod/stream_0.php
+Astro AEC,http://o11.163189.xyz/stream/live/aec/stream_0.php
+Astro歡喜臺,http://o11.163189.xyz/stream/live/hxt/stream_0.php
+愛奇藝,http://o11.163189.xyz/stream/live/iqiyi/stream_0.php
+天映頻道,http://o11.163189.xyz/stream/live/typd/stream_0.php
+天映經典,http://o11.163189.xyz/stream/live/ccm/stream_0.php
+TVB星河(国语),http://o11.163189.xyz/stream/live/tvbxh/stream_0.php
+千禧經典臺,http://o11.163189.xyz/stream/live/tvbc/stream_0.php
 
 
 
