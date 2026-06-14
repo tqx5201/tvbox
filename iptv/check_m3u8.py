@@ -20,7 +20,7 @@ async def check_m3u82(session, url):
         return False
 
 
-async def check_m3u8(session, url):
+async def check_m3u81(session, url):
     headers = {
         "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; CPU OS 4_3_3 like Mac OS X)"
     }
@@ -44,6 +44,35 @@ async def check_m3u8(session, url):
     except (aiohttp.ClientError, TimeoutError, ConnectionError):
         pass
     return False
+
+
+import aiohttp
+
+async def check_m3u8(session: aiohttp.ClientSession, url: str) -> bool:
+    headers = {
+        "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; CPU OS 4_3_3 like Mac OS X)"
+    }
+    timeout = aiohttp.ClientTimeout(total=8)
+    retry_times = 5
+
+    for _ in range(retry_times + 1):
+        try:
+            async with session.get(url, headers=headers, timeout=timeout) as resp:
+                if resp.status in (200, 206):
+                    # 读取前2048字节，替代 limit
+                    data = await resp.read(n=2048)
+                    chunk = data.decode("utf-8", errors="ignore")
+                    return "#EXTM3U" in chunk.upper()
+                # 401 且还有重试次数，继续请求
+                elif resp.status == 401 and _ < retry_times:
+                    continue
+                else:
+                    return False
+        except (aiohttp.ClientError, TimeoutError, ConnectionError):
+            return False
+    return False
+
+
 
 async def main():
     try:
