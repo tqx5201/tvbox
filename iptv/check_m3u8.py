@@ -3,11 +3,12 @@ import asyncio
 
 LIST_FILE = 'proxy_m3u8_all.txt'
 
-async def check_m3u82(session, url):
+async def check_m3u8(session, url):
     try:
         headers = {
             "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; CPU OS 4_3_3 like Mac OS X)"
         }
+        url = url.replace("stream_0.php","")
         async with session.get(url, headers=headers, timeout=8) as resp:
             if resp.status not in (200, 206):
                 return False
@@ -48,7 +49,7 @@ async def check_m3u81(session, url):
 
 import aiohttp
 
-async def check_m3u8(session: aiohttp.ClientSession, url: str) -> bool:
+async def check_m3u83(session: aiohttp.ClientSession, url: str) -> bool:
     headers = {
         "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; CPU OS 4_3_3 like Mac OS X)"
     }
@@ -61,7 +62,7 @@ async def check_m3u8(session: aiohttp.ClientSession, url: str) -> bool:
                 if resp.status in (200, 206):
                     # 读取前2048字节，替代 limit
                     chunk = await resp.text(errors="ignore")
-                    print(url,chunk)
+                    #print(url,chunk)
                     return "#EXTM3U" in chunk.upper()
                 # 401 且还有重试次数，继续请求
                 elif resp.status == 401 and _ < retry_times:
