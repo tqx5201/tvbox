@@ -6,25 +6,7 @@ TVB翡翠臺4K(字幕),http://o11.163189.xyz/stream/tvb/fct4k/stream_0.php
 TVB Plus(字幕),http://o11.163189.xyz/stream/tvb/tvbp/stream_0.php
 TVB翡翠臺(字幕),http://o11.163189.xyz/stream/tvb/fct/stream_0.php
 TVB明珠臺(字幕),http://o11.163189.xyz/stream/tvb/mzt/stream_0.php
-HOY TV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-HOY資訊臺,http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
-HOY劇集臺,http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
-NOW新聞臺,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-RTHK31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-廣東珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
-廣東體育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-龍華電影,http://cdn8.veryfast.filegear-sg.me/163189/lhdy
-龍華經典,http://cdn8.veryfast.filegear-sg.me/163189/lhjd
-龍華偶像,http://cdn8.veryfast.filegear-sg.me/163189/lhox
-龍華日韓,http://cdn8.veryfast.filegear-sg.me/163189/lhrh
-龍華戲劇,http://cdn8.veryfast.filegear-sg.me/163189/lhxj
 金光布袋戲,http://o11.163189.xyz/stream/live/jgbdx/stream_0.php
-TVB華麗翡翠臺,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-TVB亞洲武俠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
-TVB娛樂新聞臺,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-TVB無線新聞臺,http://v2h.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
-TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/stream_0.php
 TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/stream_0.php
 Astro AOD,http://o11.163189.xyz/stream/live/aod/stream_0.php
