@@ -20,8 +20,5 @@ TVB星河(国语),http://o11.163189.xyz/stream/live/tvbxh/stream_0.php
 鳳凰中文,https://cdn6.163189.xyz/163189/fhzw
 鳳凰資訊,https://cdn6.163189.xyz/163189/fhzx
 鳳凰香港,https://cdn6.163189.xyz/163189/fhhk
-龍華電影,https://cdn8.163189.xyz/163189/lhdy
-龍華戲劇,https://cdn8.163189.xyz/163189/lhxj
 龍華日韓,https://cdn8.163189.xyz/163189/lhrh
-龍華偶像,https://cdn8.163189.xyz/163189/lhox
 龍華經典,https://cdn8.163189.xyz/163189/lhjd
