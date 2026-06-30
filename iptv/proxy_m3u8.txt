@@ -10,7 +10,6 @@ TVB明珠臺(字幕),http://o11.163189.xyz/stream/tvb/mzt/stream_0.php
 TVB華麗翡翠臺,http://o11.163189.xyz/stream/live/hlt/stream_0.php
 TVB華麗翡翠臺(新加坡),http://o11.163189.xyz/stream/live/jade/stream_0.php
 Astro AOD,http://o11.163189.xyz/stream/live/aod/stream_0.php
-Astro AEC,http://o11.163189.xyz/stream/live/aec/stream_0.php
 Astro歡喜臺,http://o11.163189.xyz/stream/live/hxt/stream_0.php
 愛奇藝,http://o11.163189.xyz/stream/live/iqiyi/stream_0.php
 天映頻道,http://o11.163189.xyz/stream/live/typd/stream_0.php
@@ -20,5 +19,8 @@ TVB星河(国语),http://o11.163189.xyz/stream/live/tvbxh/stream_0.php
 鳳凰中文,https://cdn6.163189.xyz/163189/fhzw
 鳳凰資訊,https://cdn6.163189.xyz/163189/fhzx
 鳳凰香港,https://cdn6.163189.xyz/163189/fhhk
+龍華電影,https://cdn8.163189.xyz/163189/lhdy
+龍華戲劇,https://cdn8.163189.xyz/163189/lhxj
 龍華日韓,https://cdn8.163189.xyz/163189/lhrh
+龍華偶像,https://cdn8.163189.xyz/163189/lhox
 龍華經典,https://cdn8.163189.xyz/163189/lhjd

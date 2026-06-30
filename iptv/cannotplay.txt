@@ -46,6 +46,7 @@ TVB華麗翡翠臺(硬字幕),http://cdn6.veryfast.filegear-sg.me/live/jade/stre
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/stream_0.php
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/stream_0.php
 天映經典,https://cdn10.163189.xyz/stream/163189/ccm/stream_0.php
+Astro AEC,http://o11.163189.xyz/stream/live/aec/stream_0.php
 CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
 重溫經典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
@@ -74,9 +75,6 @@ HOY劇集臺,https://cdn11.163189.xyz/163189/c4df21397505587b
 HOY生活臺,https://cdn11.163189.xyz/163189/c88d2a936daf88fb
 HOY怪談臺,https://cdn11.163189.xyz/163189/35f8613e99c59724
 HOY體育臺,https://cdn11.163189.xyz/163189/19256090154aa9e9
-龍華電影,https://cdn8.163189.xyz/163189/lhdy
-龍華戲劇,https://cdn8.163189.xyz/163189/lhxj
-龍華偶像,https://cdn8.163189.xyz/163189/lhox
 緯來電影台,https://tv.zubo.cc.cd/live/rx2/2728/0f177c09ae2291f7f2fd7226d9d63600/index.m3u8
 龍華偶像,https://tv.zubo.cc.cd/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
 采昌影劇台,https://tv.zubo.cc.cd/live/rx6/2804/b85cad3ca2e1a68ca39bb47d67afa2c3/index.m3u8
